@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FirstApplication</string>
+    <string name="hello_world">Hello World !</string>
+    <string name="title">Title</string>
+    <string name="subtitle">SubTitle</string>
+    <string name="date">08/02/2017</string>
+    <string name="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed porta eget erat ac tempor. Praesent sit amet dui sit amet nibh rutrum volutpat eget at dolor.
+        In in mauris sapien. CrasLorem ipsum dolor sit amet, consectetur adipiscing elit. FINE</string>
+    <string name="btn">Ok</string>
+    <string name="email">Insert Email</string>
+    <string name="passw">Insert Password</string>
+    <string name="login">LOGIN</string>
+</resources>
